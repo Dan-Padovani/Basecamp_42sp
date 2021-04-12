@@ -1,2 +1,3 @@
 # Basecamp_42sp
-A little code of my exercises from 2nd basecamp of 42sp School
+Codes of my exercises - 2nd basecamp of 42sp School.
+March 29 until April 17 / 202  
