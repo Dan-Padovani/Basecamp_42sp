@@ -1,7 +1,7 @@
 # Basecamp_42sp
-Codes of my exercises - 2nd basecamp of 42sp School.
-https://www.42sp.org.br/
-March 29 until April 17 / 2021
+Codes of my exercises - 2nd basecamp of 42sp School.<br>
+https://www.42sp.org.br/ <br>
+March 29 until April 17 / 2021 <br>
 Use to study not only for copy.
 
 # Moulinette evaluation
